@@ -1,4 +1,4 @@
-package main_test // взяли пакет credit, добавили _test
+package credit_test
 
 import (
 	"fmt"
